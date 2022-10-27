@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Bangla",
+        "price": 1200,
+        "description": "Bangla learnig is to much importent fro every bangli people , so we must read bangla",
+        "image": "https://1.bp.blogspot.com/-O043frhylE8/XiBKWSFs_-I/AAAAAAAAFWw/WpbHZxSs4cMC8AVLARtEB3RsCnzoRKjKgCLcBGAsYHQ/s16000/Screenshot_20200116_143348.jpg",
+         "duration" : "3 month"
+        },
+    {
+        "id": 2,
+        "title": "English",
+        "price": 1500,
+        "description": "English learnig is to much importent fro every  people , so we must read ENglish,english is inter natinal language",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81ckNd0AV1L._AC_UL600_SR600,600_.jpg",
+         "duration" : "3 month"
+        },
+    {
+        "id": 3,
+        "title": "Math",
+        "price": 1000,
+        "description": "Math learnig is to much importent fro every people , so we must read math",
+        "image": "https://png.pngtree.com/png-clipart/20210310/ourlarge/pngtree-math-clipart-cartoon-math-book-png-image_2997364.jpg",
+         "duration" : "3 month"
+        },
+    {
+        "id": 4,
+        "title": "islam",
+        "price": 1200,
+        "description": "islam learnig is to much importent fro every people , so we must read islam",
+        "image": "https://as2.ftcdn.net/v2/jpg/01/48/81/25/1000_F_148812519_0ZyqUPNrrOJQOK6UAmAnwgXP92gPv58m.jpg",
+         "duration" : "3 month"
+        },
+    {
+        "id": 5,
+        "title": "computar",
+        "price": 800,
+        "description": "computar learnig is to much importent fro every bangli people , so we must learn computar",
+        "image": "https://sahitya.b-cdn.net/wp-content/uploads/2021/07/2391.jpg",
+         "duration" : "3 month"
+        },
+    {
+        "id": 6,
+        "title": "ict",
+        "price": 700,
+        "description": "ict learnig is to much importent fro every people , so we must read ict",
+        "image": "https://2.bp.blogspot.com/-b0zBkIiaBz8/WZiEPazZkNI/AAAAAAAAPrw/GMUuUj6PX2wzQ0Le2TFkQhyvAzvOwW7PQCLcBGAs/s1600/Information%2Band%2BCommunications%2BTechnology%2BText%2BBook%2BClass%2B11%252C%2B12.jpg",
+         "duration" : "3 month"
+        }
+]

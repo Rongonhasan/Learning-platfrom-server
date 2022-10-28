@@ -16,6 +16,8 @@ app.get("/courses", (req, res) => {
   res.send(coursesCollection);
 });
 
+// server site courses
+
 app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
   const item = coursesCollection?.find((p) => p.id == id);
